@@ -27,6 +27,6 @@ Esse projeto foi realizado utilizando-se as seguintes tecnologias:
 
 # :memo: Explicação
 
-Nesse projeto criei botões brilhantes de Neon com <strong>HTML5</strong> e <strong>CSS3</strong> que servem para dar acesso aos meus protifólios pessoais. 
+Nesse projeto criei botões brilhantes de Neon com <strong>HTML5</strong> e <strong>CSS3</strong> que servem para dar acesso aos meus protfólios pessoais. 
 
 
